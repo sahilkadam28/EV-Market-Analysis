@@ -3,7 +3,6 @@
 An interactive Tableau dashboard analyzing **270,257 electric vehicle registrations** to understand EV adoption trends, market share by manufacturer, and geographic distribution across the United States.
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
 
